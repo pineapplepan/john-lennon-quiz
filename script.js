@@ -125,7 +125,7 @@ const questions = [
     ],
   },
   {
-    question: "The first song that was on MTV was:",
+    question: "The first song that was aired on MTV is:",
     answers: [
       { text: "American anthem", correct: false },
       { text: "Video killed the radio star", correct: true },
