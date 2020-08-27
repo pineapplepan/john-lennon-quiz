@@ -184,4 +184,17 @@ const questions = [
       { text: "They have all converted to Judaism", correct: false },
     ],
   },
+  {
+    question:
+      "What is special about the Spanish national anthem?",
+    answers: [
+      { text: "Complete lyrics consists of 218 stanzas", correct: false },
+      {
+        text: "The lyrics was written by a 14-year-old",
+        correct: false,
+      },
+      { text: "The lyrics were written by a French", correct: false },
+      { text: "The hymn has no lyrics", correct: true },
+    ],
+  },
 ];
