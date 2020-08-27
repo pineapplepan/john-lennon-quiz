@@ -2,7 +2,7 @@
 *::before,
 *::after {
   box-sizing: border-box;
-  font-family: Roboto;
+  font-family: Helvetica;
   font-size: 1.3rem;
   font-weight: 200;
 }
