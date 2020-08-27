@@ -2,7 +2,7 @@
 *::before,
 *::after {
   box-sizing: border-box;
-  font-family: "Indie Flower", cursive;
+  font-family: Roboto;
   font-size: 1.3rem;
   font-weight: 200;
 }
