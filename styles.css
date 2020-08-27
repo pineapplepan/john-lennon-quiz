@@ -7,6 +7,11 @@
   font-weight: 200;
 }
 
+@font-face {
+  font-family: "Indie Flower";
+  src: url("IndieFlower-Regular.ttf") format("truetype");
+}
+
 :root {
   --hue-neutral: 200;
   --hue-wrong: 0;
