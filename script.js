@@ -180,7 +180,7 @@ const questions = [
         text: "They have reservations for their funeral on the moon",
         correct: false,
       },
-      { text: "Insects were named after the", correct: true },
+      { text: "Insects were named after them", correct: true },
       { text: "They have all converted to Judaism", correct: false },
     ],
   },
